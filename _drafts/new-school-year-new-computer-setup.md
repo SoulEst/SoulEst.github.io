@@ -49,10 +49,10 @@ The custom workstation contains the following parts:
     <tr><td>Optical Drive</td><td>LITE-ON DH-16A1L</td></tr>
 </table>
 
-The DIY iMac runs Mac OS X Mountain Lion (10.8.6 as of this post), while the custom
-workstation and ThinkPad run Arch Linux. It's not much now, but once I've
-replaced the keyboard and mouse for the workstation and replaced to hard drive
-with a solid state drive in the DIY iMac, everything will be complete.
+The DIY iMac, custom workstation and ThinkPad all run Arch Linux. It's not much
+now, but once I've replaced the keyboard and mouse for the workstation and
+replaced to hard drive with a solid state drive in the DIY iMac, everything
+will be complete.
 
 [1]:    http://www.humber.ca/program/computer-engineering-technology/
 [2]:    http://www.rccit.ca/
