@@ -8,7 +8,8 @@ tags:       steam valve source arch linux archlinux pacman multilib
 While Steam is meant to be installed on Debian based operating systems (Ubuntu especially), I prefer Arch. With that in mind, I set out to install and properly set up Steam on my Arch powered workstation. First off, I read the [Steam][1] in the [ArchWiki][2]. Secondly, I 
 installed the 
 
-    sudo pacman -S infinality-bundle-multilib/infinality-bundle steam ttf-liberation libtxc_dxtn lib32-libtxc_dxtn lib32-nvidia-utils lib32-nvidia-libgl lib32-flashplugin
+    sudo pacman -S infinality-bundle-multilib/infinality-bundle steam ttf-liberation \
+    libtxc_dxtn lib32-libtxc_dxtn lib32-nvidia-utils lib32-nvidia-libgl lib32-flashplugin
 
 After doing that, I linked the flash plugin into the right folder:
 
