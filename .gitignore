@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 _site
-=======
-_site/
->>>>>>> bc049db215745cf62b3b36ce72a3b5186ddc3a45
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
+Gemfile.lock
