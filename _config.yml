@@ -1,6 +1,6 @@
 title:            Nolan Haynes' Musings
 description:      on business, expression, gadgets, and philosophy
-logo:             http://www.gravatar.com/avatar/8f31a1268be8b769e9247770d0a393fb.png
+# logo:             
 disqus_shortname: nolanhaynes
 search:           true
 #Comment out url when working locally to resolve base urls correctly
