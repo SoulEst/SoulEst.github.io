@@ -1,8 +1,10 @@
 ---
-layout:     post
-title:      Honing my Arch-ery skills
-categories: gadgetic philosophic
-tags:       arch archlinux user repository aur pkgbuild sed
+layout:         post
+title:          Honing my Arch-ery skills
+description:    "Improving my Linux Administration skills under Arch Linux"
+categories:     gadgetic
+tags:           arch archlinux user repository aur pkgbuild sed
+comments:       true
 ---
 
 Over the previous weekend, I started working on a couple packages for the Arch User Repository (AUR for short). The first one is for QtSixA which I adopted from maandree and then updated. The updates included adding udev rules for 

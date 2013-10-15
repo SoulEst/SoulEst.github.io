@@ -1,33 +1,33 @@
-title:            Site Title
-description:      Describe your website here.
-logo:             site-logo.png
-disqus_shortname: 
+title:            Nolan Haynes' Musings
+description:      on business, expression, gadgets, and philosophy
+logo:             http://www.gravatar.com/avatar/8f31a1268be8b769e9247770d0a393fb.png
+disqus_shortname: nolanhaynes
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://SoulEst.github.io/
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  email:          you@email.com
+  name:           Nolan Haynes
+  avatar:         http://www.gravatar.com/avatar/8f31a1268be8b769e9247770d0a393fb.png
+  email:          nolanhaynes@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:        https://twitter.com/Soul_Est/
+  facebook:       https://www.facebook.com/nolan.alfred.haynes/
+  github:         https://github.com/SoulEst/
+# stackexchange:  
+  linkedin:       http://ca.linkedin.com/in/nolanhaynes/
+# instagram:      
+  flickr:         http://www.flickr.com/photos/soul_est/
+# tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    https://plus.google.com/u/0/103443201377825866535
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
+google_analytics:   UA-41547986-1
+google_verify:      XlcjtrWhba0vViv11MtPnO3dswhgOaGiwg6sE0Ry-0c
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+# bing_verify:         
 
 # Links to include in top navigation
 # For external links add external: true
@@ -38,18 +38,18 @@ links:
     url: /articles
   - title: Theme Setup
     url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+# - title: Made Mistakes
+#   url: http://mademistakes.com
+#   external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Toronto
 future:      true
 pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:year/:month/:day/:title
 
 kramdown:
   auto_ids: true

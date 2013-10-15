@@ -1,8 +1,10 @@
 ---
-layout:     post
-title:      Copy select files with rsync
-categories: gadgetic philosophic
-tags:       arch linux archlinux rsync bash zsh shell backup
+layout:         post
+title:          Copy select files with rsync
+description:    "Sorting files after disaster recovery"
+categories:     gadgetic philosophic
+tags:           arch linux archlinux rsync bash zsh shell backup
+comments:       true
 ---
 
 A few months ago, the BTRFS filesystem that I using on my external hard drive became corrupted. I put in much work trying to recover the filesystem using the tools made for it, but to no avail. I finally opted to recover what 

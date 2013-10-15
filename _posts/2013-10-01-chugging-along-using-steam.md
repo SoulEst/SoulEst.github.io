@@ -1,8 +1,11 @@
 ---
-layout:     post
-title:      Chugging Along Using Steam
-categories: gadgetic
-tags:       steam valve source arch linux archlinux pacman multilib
+layout:         post
+title:          Chugging Along Using Steam
+description:    "Installing and setting up Steam on my Arch powered workstation"
+modified:       2013-10-08
+categories:     gadgetic
+tags:           steam valve source arch linux archlinux pacman multilib
+comments:       true
 ---
 
 While Steam is meant to be installed on Debian based operating systems (Ubuntu especially), I prefer Arch. With that in mind, I set out to install and properly set up Steam on my Arch powered workstation. First off, I read the [Steam][1] in the [ArchWiki][2]. Secondly, I 
